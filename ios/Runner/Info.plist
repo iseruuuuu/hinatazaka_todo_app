@@ -4,12 +4,10 @@
 <dict>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>登録のためにフォトアルバムを取得します。</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>日向坂TODO</string>
+	<string>おひさまTODO</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -20,14 +18,16 @@
 	<string>hinatazaka_goods_todo_app</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
-	<key>CFBundleSignature</key>
-	<string>????</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.01</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1.01</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>登録のためにフォトアルバムを取得します。</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
